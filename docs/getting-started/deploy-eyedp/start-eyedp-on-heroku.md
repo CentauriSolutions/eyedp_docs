@@ -4,6 +4,7 @@ title: Start EyeDP on Heroku
 nav_order: 0
 parent: Deploy EyeDP
 grand_parent: Getting Started
+permalink: /getting-started/deploy-eyedp/heroku
 ---
 
 If you are reading this document in a browser all you need to do is click the

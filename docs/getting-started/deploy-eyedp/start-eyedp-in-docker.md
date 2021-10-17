@@ -4,6 +4,7 @@ title: Start EyeDP in Docker
 nav_order: 1
 parent: Deploy EyeDP
 grand_parent: Getting Started
+permalink: /getting-started/deploy-eyedp/docker
 ---
 
 The easiest way to get started hosting EyeDP on your own infrastructure
