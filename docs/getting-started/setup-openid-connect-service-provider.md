@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup OpenID Connect Service Provider
+title: Setup an OpenID Connect Service Provider
 nav_order: 9
 parent: Getting Started
 has_children: true

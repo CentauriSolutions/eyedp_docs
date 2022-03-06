@@ -7,7 +7,7 @@ has_children: true
 permalink: /getting-started/create-eyedp-users
 ---
 
-This tutorial will walk you theough creating a new user. To begin, navigate to https://your.eyedp.server/admin/users/new and input the following details:
+This tutorial will walk you theough creating a new user. To begin, navigate to [https://your.eyedp.server/admin/users](), click the "New User" button, and input the following details:
 
 Username
 : example_username
@@ -24,6 +24,7 @@ Groups
 Send welcome email
 : uncheck
 
-And click save!
+![new user page](/images/new_user.png)
+And click Create User!
 
-On the next page, you will see a notification at the top that the user was successfully created. Additionally, you'll see a link to reset the user's password.
+The new user will show up in the user listing immediately!

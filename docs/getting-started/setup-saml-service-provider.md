@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup SAML Service Provider
+title: Setup a SAML Service Provider
 nav_order: 7
 parent: Getting Started
 has_children: true

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disable multifactor authentication
-nav_order: 8
+nav_order: 0
 parent: How To
 permalink: /how-to/disable-multifactor-authentication
 ---

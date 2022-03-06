@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deploy EyeDP
-nav_order: 3
+nav_order: 0
 parent: Getting Started
 has_children: true
 permalink: /getting-started/deploy-eyedp
