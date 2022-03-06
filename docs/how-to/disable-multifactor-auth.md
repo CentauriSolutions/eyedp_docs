@@ -27,7 +27,7 @@ docker-compose exec eyedp rails console
 You're now ready to disable the user's multifactor:
 
 ```rails
-User.where(username: 'exmaple').first.disable_two_factor!
+User.where(username: 'example').first.disable_two_factor!
 ```
 
 Any groups that this user has that require mfa will now be unavailable until the user adds a new multifactor device.
